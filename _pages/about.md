@@ -31,5 +31,3 @@ As part of a course practicum, I worked on a **YOLO-based traffic sign recogniti
 My research interests include **generative models**, **world models**, and **language models**. I am currently seeking research internship opportunities to explore these interests and develop my research skills.
 
 I work with **Python, C++, PyTorch, and Git**.
-
-Please feel free to reach out at [nebustary@gmail.com](mailto:nebustary@gmail.com) regarding research internships or potential collaborations.
