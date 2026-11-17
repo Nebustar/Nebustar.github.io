@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: "Undergraduate in Software Engineering"
+subtitle: "Software Engineering Undergraduate · Huazhong University of Science and Technology"
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
 
 I am **Xinghao Su**, an undergraduate student majoring in **Software Engineering** at **Huazhong University of Science and Technology (HUST)**. I began my studies in August 2025 and expect to graduate in July 2029.
 
-As part of a course practicum, I worked on a **YOLO-based traffic sign recognition system**, focusing on model training and backend development. You can find my projects on [GitHub](https://github.com/Nebustar).
+As part of a course practicum, I worked on a **YOLO-based traffic sign recognition system**, focusing on model training and backend development. See my [project overview]({{ '/projects/' | relative_url }}) or browse the [source code on GitHub](https://github.com/Nebustar/Traffic_sign_system).
 
 My research interests include **generative models**, **world models**, and **language models**. I am currently seeking research internship opportunities to explore these interests and develop my research skills.
 
